@@ -2,7 +2,7 @@ export const moda = [
   {
     id: 1,
     name: "Botas Pretas",
-    image: "/public/images/bota.webp",
+    image: "/images/bota.webp",
     price: "R$ 529",
     description: "(quase) toda bota preta é um sim",
     priority: "☆☆☆☆☆",
@@ -10,7 +10,7 @@ export const moda = [
   {
     id: 2,
     name: "Over Knee",
-    image: "/public/images/Botaknee.jpg",
+    image: "/images/Botaknee.jpg",
     price: "R$ 400 - 750",
     description: "Pra pisar em todos os homens",
     priority: "☆☆☆☆☆",
@@ -18,15 +18,15 @@ export const moda = [
   {
     id: 3,
     name: "Coturnos",
-    image: "/public/images/Coturno.jpg",
-    price: "R$  Esqueci o preço",
+    image: "/images/Coturno.jpg",
+    price: "R$ Esqueci o preço",
     description: "Quero todos os coturnos babilonicos do mundo",
     priority: "☆☆☆☆☆",
   },
   {
     id: 4,
     name: "Scarpin",
-    image: "/public/images/Scarpin.webp",
+    image: "/images/Scarpin.webp",
     price: "R$ 200 - 500",
     description: "Querendo",
     priority: "☆☆☆☆",
@@ -34,7 +34,7 @@ export const moda = [
   {
     id: 5,
     name: "All Star Vinho",
-    image: "/public/images/Allstar.webp",
+    image: "/images/Allstar.webp",
     price: "R$ 350",
     description: "Amo all star e amo essa cor",
     priority: "☆☆☆☆☆",
@@ -42,7 +42,7 @@ export const moda = [
   {
     id: 6,
     name: "Pijama loungerie",
-    image: "/public/images/pijama.webp",
+    image: "/images/pijama.webp",
     price: "R$ 250",
     description: "Para dormir gostosinho",
     priority: "☆☆☆☆",
@@ -50,7 +50,7 @@ export const moda = [
   {
     id: 7,
     name: "Bolsas que caibam meu notebook",
-    image: "/public/images/bolsa.webp",
+    image: "/images/bolsa.webp",
     price: "R$ 150 - 300",
     description: "Pra levar meu notebook e o mundo",
     priority: "☆☆☆☆☆",

@@ -2,7 +2,7 @@ export const perfumes = [
   {
     id: 1,
     name: "Miss Dior",
-    image: "/public/images/missdior.webp",
+    image: "/images/missdior.webp",
     price: "R$ 539",
     description: "Esse perfume é bem princesinha sou doida pra sentir ele",
     priority: "☆☆☆☆",
@@ -10,7 +10,7 @@ export const perfumes = [
   {
     id: 2,
     name: "Poison",
-    image: "/public/images/poison.webp",
+    image: "/images/poison.webp",
     price: "R$ 575",
     description: "PERFUME DE LOBA, tá na minha lista tem tempo",
     priority: "☆☆☆☆☆",
@@ -18,31 +18,31 @@ export const perfumes = [
   {
     id: 3,
     name: "La Vie Est Belle",
-    image: "/public/images/lavie.jpg",
+    image: "/images/lavie.jpg",
     price: "R$ 540",
     description: "Clássico, quero muuuuitoooooo",
     priority: "☆☆☆☆☆",
   },
-   {
+  {
     id: 4,
     name: "Una blush - Natura",
-    image: "/public/images/una.webp",
+    image: "/images/una.webp",
     price: "R$ 155 - 300",
     description: "Tem um tempinho que tá na minha lista mas nunca compro, queroo",
     priority: "☆☆☆☆☆",
   },
-   {
+  {
     id: 5,
     name: "Florattas desse tipo - O Boticário",
-    image: "/public/images/Floratta.jpg",
+    image: "/images/Floratta.jpg",
     price: "R$ 180-220 cada",
     description: "Eu quero muito os três de uma vez(rosa,roxo e vermelho) kkkk vou ter cheirinho de bruxa princesa sedutora ahahha",
     priority: "☆☆☆☆☆",
   },
-   {
+  {
     id: 6,
     name: "Love Lily",
-    image: "/public/images/Lily.jpg",
+    image: "/images/Lily.jpg",
     price: "R$ 329",
     description: "Lindinho, Lily não tem erro né, esse nunca tive mas quero",
     priority: "☆☆☆☆☆",
@@ -50,7 +50,7 @@ export const perfumes = [
   {
     id: 7,
     name: "Montblanc signature",
-    image: "/public/images/montblanc.jpg",
+    image: "/images/montblanc.jpg",
     price: "R$ 350-500",
     description: "Quero mt esse cheiro de baunilha",
     priority: "☆☆☆☆☆",
@@ -58,7 +58,7 @@ export const perfumes = [
   {
     id: 8,
     name: "Libre - Yves Saint Laurent",
-    image: "/public/images/libre.jpg",
+    image: "/images/libre.jpg",
     price: "R$ 400-600",
     description: "Sou doida pra sentir esse",
     priority: "☆☆☆☆☆",
@@ -66,10 +66,9 @@ export const perfumes = [
   {
     id: 9,
     name: "MyWay - Armani",
-    image: "/public/images/myway.jpg",
+    image: "/images/myway.jpg",
     price: "R$ 300-500",
     description: "Clássico tbm quero mtoo!!",
     priority: "☆☆☆☆☆",
   },
-
 ]
